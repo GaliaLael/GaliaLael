@@ -8,7 +8,7 @@ I’m looking for a job as a C++ programmer, could I be who you're looking for?
   
 ![Hello](https://i1.sndcdn.com/artworks-000134530352-2ebnbo-t200x200.jpg)
 
-Feel free to [contact me](mailto:galia.lael@gmail.com) if something I did grabs your attention :)  
+Feel free to [contact me](mailto:galia.lael@gmail.com) if something I made grabs your attention :)  
 
 
 ## :computer:Tech Stack
