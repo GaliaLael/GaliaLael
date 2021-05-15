@@ -1,10 +1,11 @@
 ## :raising_hand:Hi! My name is Galia
 I'm a software developer, maker and all around geek :space_invader::vulcan_salute:
 
-I studied Computer Science & Mathematics in Tel Aviv University,  
-and Industrial Design in HIT. I'm multidiciplined like that... :wink:  
-In my spare time I volunteer as a branch manager for [she codes;](https://she-codes.org/), an organization promoting women in programming.
-
+- I studied Computer Science & Mathematics in Tel Aviv University,  
+- and Industrial Design in HIT. I'm multidiciplined like that... :wink:  
+- In my spare time I volunteer as a branch manager for [she codes;](https://she-codes.org/), an organization promoting women in programming.
+  
+    
 If by any chance you're looking for a C++ programmer, is it me you're looking for?  
   
 ![Hello](https://i1.sndcdn.com/artworks-000134530352-2ebnbo-t200x200.jpg)
