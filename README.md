@@ -2,7 +2,8 @@
 I'm a software developer, maker and all around geek :space_invader::vulcan_salute:
 
 I studied Computer Science & Mathematics in Tel Aviv University,  
-and Industrial Design in HIT. I'm multidiciplined like that... :wink:
+and Industrial Design in HIT. I'm multidiciplined like that... :wink:  
+In my spare time I volunteer as a branch manager for [she codes;](https://she-codes.org/), an organization promoting women in programming.
 
 If by any chance you're looking for a C++ programmer, is it me you're looking for?  
   
