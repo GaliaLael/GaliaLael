@@ -1,5 +1,5 @@
 ## :raising_hand:Hi! My name is Galia
-I'm a software developer, maker and an all around geek :space_invader::vulcan_salute:
+I'm a software developer, maker and all around geek :space_invader::vulcan_salute:
 
 I studied Computer Science & Mathematics in Tel Aviv University,  
 and Industrial Design in HIT. I'm multidiciplined like that... :wink:
